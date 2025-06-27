@@ -52,18 +52,20 @@ This Power BI dashboard significantly empowered Adventure Works' management by p
 *(It is highly recommended to add clear, high-resolution screenshots of your dashboard here. Include screenshots of different pages or key visualizations that demonstrate interactivity and insights.)*
 
 Example:
-![Sales Overview Dashboard](images/sales_overview.png)
-![Product Performance Analysis](images/product_performance.png)
+![Sales Overview Dashboard](https://github.com/elsayedg/Adventure-Works-Sales-Performance/blob/main/AdventureWorks%20Images/Dashboard_img/Exec_Dashboard.PNG)
+![Customer_Analysis](https://github.com/elsayedg/Adventure-Works-Sales-Performance/blob/main/AdventureWorks%20Images/Dashboard_img/Customer_dashboard.PNG)
+![Product Performance Analysis](https://github.com/elsayedg/Adventure-Works-Sales-Performance/blob/main/AdventureWorks%20Images/Dashboard_img/Product_Dashboard.PNG)
+![Map](https://github.com/elsayedg/Adventure-Works-Sales-Performance/blob/main/AdventureWorks%20Images/Dashboard_img/Map.PNG)
 
 ## How to View the Dashboard
 
 You can interact with the live dashboard (if hosted on Power BI Service) or download the Power BI Desktop file to explore it yourself.
 
-* **View Live Dashboard:** [Link to your Power BI Service Public Web Embed or another hosting service]
-* **Download Power BI File (.pbix):** [Link to your .pbix file in this GitHub repository]
+
+* [**Download Power BI File (.pbix)** ](https://github.com/elsayedg/Adventure-Works-Sales-Performance/blob/main/AdventureWorks%20PBIX%20Files/AdventureWorks%20Report_FINAL.pbix)
 
 ## Contact
 
-Feel free to connect with me on [Your LinkedIn Profile URL] if you have any questions or would like to discuss this project further.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/elsayed-abo/) if you have any questions or would like to discuss this project further.
 
 ---
